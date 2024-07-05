@@ -1,0 +1,1409 @@
+{
+    "tilemap": {
+        "0;21": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                0,
+                21
+            ]
+        },
+        "1;21": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                1,
+                21
+            ]
+        },
+        "2;21": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                2,
+                21
+            ]
+        },
+        "3;21": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                3,
+                21
+            ]
+        },
+        "4;21": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                4,
+                21
+            ]
+        },
+        "5;21": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                5,
+                21
+            ]
+        },
+        "6;21": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                6,
+                21
+            ]
+        },
+        "7;21": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                7,
+                21
+            ]
+        },
+        "8;21": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                8,
+                21
+            ]
+        },
+        "9;21": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                9,
+                21
+            ]
+        },
+        "10;21": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                10,
+                21
+            ]
+        },
+        "11;21": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                11,
+                21
+            ]
+        },
+        "12;21": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                12,
+                21
+            ]
+        },
+        "13;21": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                13,
+                21
+            ]
+        },
+        "14;21": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                14,
+                21
+            ]
+        },
+        "15;21": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                15,
+                21
+            ]
+        },
+        "16;21": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                16,
+                21
+            ]
+        },
+        "20;21": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                20,
+                21
+            ]
+        },
+        "21;21": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                21,
+                21
+            ]
+        },
+        "22;21": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                22,
+                21
+            ]
+        },
+        "23;21": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                23,
+                21
+            ]
+        },
+        "24;21": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                24,
+                21
+            ]
+        },
+        "25;21": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                25,
+                21
+            ]
+        },
+        "26;21": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                26,
+                21
+            ]
+        },
+        "27;21": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                27,
+                21
+            ]
+        },
+        "28;21": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                28,
+                21
+            ]
+        },
+        "29;21": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                29,
+                21
+            ]
+        },
+        "30;21": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                30,
+                21
+            ]
+        },
+        "31;21": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                31,
+                21
+            ]
+        },
+        "32;21": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                32,
+                21
+            ]
+        },
+        "33;21": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                33,
+                21
+            ]
+        },
+        "34;21": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                34,
+                21
+            ]
+        },
+        "35;21": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                35,
+                21
+            ]
+        },
+        "37;21": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                37,
+                21
+            ]
+        },
+        "38;21": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                38,
+                21
+            ]
+        },
+        "39;21": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                39,
+                21
+            ]
+        },
+        "36;21": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                36,
+                21
+            ]
+        },
+        "39;0": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                39,
+                0
+            ]
+        },
+        "39;1": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                39,
+                1
+            ]
+        },
+        "39;2": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                39,
+                2
+            ]
+        },
+        "39;3": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                39,
+                3
+            ]
+        },
+        "39;4": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                39,
+                4
+            ]
+        },
+        "39;5": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                39,
+                5
+            ]
+        },
+        "39;6": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                39,
+                6
+            ]
+        },
+        "39;7": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                39,
+                7
+            ]
+        },
+        "39;12": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                39,
+                12
+            ]
+        },
+        "39;13": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                39,
+                13
+            ]
+        },
+        "39;14": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                39,
+                14
+            ]
+        },
+        "39;15": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                39,
+                15
+            ]
+        },
+        "39;16": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                39,
+                16
+            ]
+        },
+        "39;17": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                39,
+                17
+            ]
+        },
+        "39;18": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                39,
+                18
+            ]
+        },
+        "39;19": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                39,
+                19
+            ]
+        },
+        "39;20": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                39,
+                20
+            ]
+        },
+        "38;13": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                38,
+                13
+            ]
+        },
+        "37;14": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                37,
+                14
+            ]
+        },
+        "36;15": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                36,
+                15
+            ]
+        },
+        "35;16": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                35,
+                16
+            ]
+        },
+        "34;17": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                34,
+                17
+            ]
+        },
+        "33;18": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                33,
+                18
+            ]
+        },
+        "32;19": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                32,
+                19
+            ]
+        },
+        "31;20": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                31,
+                20
+            ]
+        },
+        "26;0": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                26,
+                0
+            ]
+        },
+        "27;0": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                27,
+                0
+            ]
+        },
+        "28;0": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                28,
+                0
+            ]
+        },
+        "29;0": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                29,
+                0
+            ]
+        },
+        "30;0": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                30,
+                0
+            ]
+        },
+        "31;0": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                31,
+                0
+            ]
+        },
+        "32;0": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                32,
+                0
+            ]
+        },
+        "33;0": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                33,
+                0
+            ]
+        },
+        "34;0": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                34,
+                0
+            ]
+        },
+        "35;0": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                35,
+                0
+            ]
+        },
+        "36;0": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                36,
+                0
+            ]
+        },
+        "37;0": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                37,
+                0
+            ]
+        },
+        "38;0": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                38,
+                0
+            ]
+        },
+        "12;0": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                12,
+                0
+            ]
+        },
+        "11;0": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                11,
+                0
+            ]
+        },
+        "10;0": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                10,
+                0
+            ]
+        },
+        "9;0": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                9,
+                0
+            ]
+        },
+        "8;0": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                8,
+                0
+            ]
+        },
+        "7;0": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                7,
+                0
+            ]
+        },
+        "6;0": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                6,
+                0
+            ]
+        },
+        "5;0": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                5,
+                0
+            ]
+        },
+        "4;0": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                4,
+                0
+            ]
+        },
+        "3;0": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                3,
+                0
+            ]
+        },
+        "2;0": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                2,
+                0
+            ]
+        },
+        "1;0": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                1,
+                0
+            ]
+        },
+        "0;0": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                0,
+                0
+            ]
+        },
+        "0;1": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                0,
+                1
+            ]
+        },
+        "0;2": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                0,
+                2
+            ]
+        },
+        "0;3": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                0,
+                3
+            ]
+        },
+        "0;4": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                0,
+                4
+            ]
+        },
+        "0;5": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                0,
+                5
+            ]
+        },
+        "0;6": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                0,
+                6
+            ]
+        },
+        "0;12": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                0,
+                12
+            ]
+        },
+        "0;13": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                0,
+                13
+            ]
+        },
+        "0;14": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                0,
+                14
+            ]
+        },
+        "0;15": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                0,
+                15
+            ]
+        },
+        "0;16": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                0,
+                16
+            ]
+        },
+        "0;17": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                0,
+                17
+            ]
+        },
+        "0;18": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                0,
+                18
+            ]
+        },
+        "0;19": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                0,
+                19
+            ]
+        },
+        "0;20": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                0,
+                20
+            ]
+        },
+        "25;0": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                25,
+                0
+            ]
+        },
+        "24;0": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                24,
+                0
+            ]
+        },
+        "23;0": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                23,
+                0
+            ]
+        },
+        "22;0": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                22,
+                0
+            ]
+        },
+        "21;0": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                21,
+                0
+            ]
+        },
+        "13;0": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                13,
+                0
+            ]
+        },
+        "14;0": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                14,
+                0
+            ]
+        },
+        "15;0": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                15,
+                0
+            ]
+        },
+        "0;7": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                0,
+                7
+            ]
+        },
+        "0;11": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                0,
+                11
+            ]
+        },
+        "39;11": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                39,
+                11
+            ]
+        },
+        "20;0": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                20,
+                0
+            ]
+        },
+        "16;0": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                16,
+                0
+            ]
+        },
+        "1;11": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                1,
+                11
+            ]
+        },
+        "2;12": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                2,
+                12
+            ]
+        },
+        "3;13": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                3,
+                13
+            ]
+        },
+        "4;14": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                4,
+                14
+            ]
+        },
+        "11;15": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                11,
+                15
+            ]
+        },
+        "12;15": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                12,
+                15
+            ]
+        },
+        "13;15": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                13,
+                15
+            ]
+        },
+        "15;13": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                15,
+                13
+            ]
+        },
+        "16;13": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                16,
+                13
+            ]
+        },
+        "17;13": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                17,
+                13
+            ]
+        },
+        "13;11": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                13,
+                11
+            ]
+        },
+        "12;11": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                12,
+                11
+            ]
+        },
+        "11;11": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                11,
+                11
+            ]
+        },
+        "15;9": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                15,
+                9
+            ]
+        },
+        "16;9": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                16,
+                9
+            ]
+        },
+        "17;9": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                17,
+                9
+            ]
+        },
+        "13;7": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                13,
+                7
+            ]
+        },
+        "12;7": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                12,
+                7
+            ]
+        },
+        "11;7": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                11,
+                7
+            ]
+        },
+        "15;5": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                15,
+                5
+            ]
+        },
+        "16;5": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                16,
+                5
+            ]
+        },
+        "17;5": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                17,
+                5
+            ]
+        },
+        "18;3": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                18,
+                3
+            ]
+        },
+        "19;5": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                19,
+                5
+            ]
+        },
+        "20;5": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                20,
+                5
+            ]
+        },
+        "21;5": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                21,
+                5
+            ]
+        },
+        "23;7": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                23,
+                7
+            ]
+        },
+        "24;7": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                24,
+                7
+            ]
+        },
+        "25;7": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                25,
+                7
+            ]
+        },
+        "21;9": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                21,
+                9
+            ]
+        },
+        "20;9": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                20,
+                9
+            ]
+        },
+        "19;9": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                19,
+                9
+            ]
+        },
+        "23;11": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                23,
+                11
+            ]
+        },
+        "24;11": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                24,
+                11
+            ]
+        },
+        "25;11": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                25,
+                11
+            ]
+        },
+        "19;13": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                19,
+                13
+            ]
+        },
+        "20;13": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                20,
+                13
+            ]
+        },
+        "21;13": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                21,
+                13
+            ]
+        },
+        "23;15": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                23,
+                15
+            ]
+        },
+        "24;15": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                24,
+                15
+            ]
+        },
+        "25;15": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                25,
+                15
+            ]
+        },
+        "27;17": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                27,
+                17
+            ]
+        },
+        "28;17": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                28,
+                17
+            ]
+        },
+        "29;17": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                29,
+                17
+            ]
+        },
+        "5;15": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                5,
+                15
+            ]
+        },
+        "6;16": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                6,
+                16
+            ]
+        },
+        "7;17": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                7,
+                17
+            ]
+        },
+        "8;18": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                8,
+                18
+            ]
+        },
+        "9;19": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                9,
+                19
+            ]
+        },
+        "10;20": {
+            "type": "dungeon",
+            "variant": 0,
+            "pos": [
+                10,
+                20
+            ]
+        },
+        "16;19": {
+            "type": "spawners",
+            "variant": 0,
+            "pos": [
+                16,
+                19
+            ]
+        }
+    },
+    "tile_size": 16,
+    "offgrid": [
+        {
+            "type": "large_decor",
+            "variant": 2,
+            "pos": [
+                213.5,
+                295.0
+            ]
+        },
+        {
+            "type": "large_decor",
+            "variant": 2,
+            "pos": [
+                65.5,
+                293.5
+            ]
+        },
+        {
+            "type": "large_decor",
+            "variant": 2,
+            "pos": [
+                409.5,
+                296.0
+            ]
+        }
+    ],
+    "map_dims": {
+        "map_width": 624,
+        "map_height": 336
+    },
+    "lvl": {
+        "cur_lvl": 0,
+        "pre_dir": "",
+        "next_lvl": [
+            {
+                "dir": "r",
+                "lvl": "1.json",
+                "pos": [
+                    40,
+                    9
+                ]
+            },
+            {
+                "dir": "u",
+                "lvl": "2.json",
+                "pos": [
+                    18,
+                    0
+                ]
+            },
+            {
+                "dir": "d",
+                "lvl": "3.json",
+                "pos": [
+                    18,
+                    22
+                ]
+            },
+            {
+                "dir": "l",
+                "lvl": null,
+                "pos": [
+                    -1,
+                    9
+                ]
+            }
+        ]
+    }
+}
